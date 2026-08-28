@@ -416,7 +416,7 @@ Real-world loan approval systems require additional financial, regulatory, fairn
 
 # 👨‍💻 Author
 
-**Isha**
+**Hardik**
 
 ⭐ If you found this project useful, consider giving the repository a **star**!
 
@@ -425,5 +425,6 @@ Real-world loan approval systems require additional financial, regulatory, fairn
 ## 📜 License
 
 This project is available for educational and learning purposes.
-#   l o a n - a p p r o v a l - p r e d i c t i o n  
+#   l o a n - a p p r o v a l - p r e d i c t i o n 
+ 
  

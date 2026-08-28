@@ -250,26 +250,8 @@ Install requirements.txt
 Deploy Application
 ```
 
-After deployment, Streamlit provides a public URL that can be shared with others.
+[Live Demo]:(https://loan-approval-prediction-unknownuser1661.streamlit.app/)
 
----
-
-## 🔮 Future Improvements
-
-Possible improvements include:
-
-* Add model accuracy and evaluation metrics
-* Add confusion matrix
-* Add feature importance visualization
-* Add SHAP-based model explanations
-* Compare multiple machine learning algorithms
-* Add prediction history
-* Generate downloadable prediction reports
-* Improve UI and visualizations
-* Add authentication
-* Deploy the application publicly
-
----
 
 ## ⚠️ Disclaimer
 
